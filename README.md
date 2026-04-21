@@ -24,3 +24,6 @@ git add README.md
 # Guarda el cambio con un conventional commit
 
 git commit -m "docs: create README with execution instructions"
+
+---
+**Colaboradores:** Juan, Joel y Luis.
