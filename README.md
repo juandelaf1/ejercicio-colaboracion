@@ -25,5 +25,5 @@ git add README.md
 
 git commit -m "docs: create README with execution instructions"
 
----
-**Colaboradores:** Juan, Joel y Luis.
+
+### Colaboradores: Juan, Joel y Luis
